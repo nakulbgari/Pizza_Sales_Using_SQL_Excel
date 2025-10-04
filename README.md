@@ -40,12 +40,6 @@ This project analyzes pizza sales data using **SQL** for querying and **Excel** 
 
 ---
 
-## 📈 Dashboard Preview
-
-![Pizza Sales Dashboard](project_pizza_dashboard_sql_excel.PNG)
-
----
-
 ## 🗂️ Dataset
 
 The dataset contains order-level details such as:
